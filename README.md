@@ -1,5 +1,3 @@
-## Welcome
-
 <html>
   <body>
     <p>Hi!</p>
